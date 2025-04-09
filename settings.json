@@ -1,5 +1,5 @@
 {
   "api_key": "AIzaSyDgElLM1WabQz2HCNOvL2XDPd_hLC5YYnI",
   "s3_bucket": "https://test-bucket.s3.amazonaws.com/files/",
-  "admin_email": "admin@saahieb.org"
+  "admin_email": "admin@saahieb-org.com"
 }
