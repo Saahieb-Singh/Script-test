@@ -1,0 +1,6 @@
+{
+  "api_key": "AIzaSyDgElLM1WabQz2HCNOvL2XDPd_hLC5YYnI",
+  "s3_bucket": "https://test-bucket.s3.amazonaws.com/files/",
+  "admin_email": "admin@yourdomain.com",
+  "google_api": "AIzaSyD3-F4k3APIk3y-ForDem0Purpos3s0nly123"
+}
