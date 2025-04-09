@@ -1,0 +1,4 @@
+hello for testing purtting sensitive data here
+
+username=animetedingig
+password=1234paswrod
